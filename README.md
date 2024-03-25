@@ -10,11 +10,11 @@ Iz `ros2_ws` foldera pokrenuti
 
 `colcon build`
 
-`source install/setup.bash`
-
 ## Run
 
 U 4 različita terminala pokrenuti
+
+`source install/setup.bash` <-- u svakom terminalu
 
 `ros2 run z4_pubsub brojcanik`
 
