@@ -14,7 +14,7 @@ Iz `ros2_ws` foldera pokrenuti
 
 U 4 različita terminala pokrenuti
 
-`source install/setup.bash` <-- u svakom terminalu
+`source install/setup.bash` <-- u prva 2 terminala
 
 `ros2 run z4_pubsub brojcanik`
 
